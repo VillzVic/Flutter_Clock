@@ -1,6 +1,6 @@
-# flutter_redux
+# flutter_Clock
 
-A new Flutter application.
+A clock representation made with flutter
 
 ## Getting Started
 
